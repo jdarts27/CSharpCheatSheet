@@ -1,0 +1,15 @@
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\bin\Debug\net6.0\PracticeForTest.exe
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\bin\Debug\net6.0\PracticeForTest.deps.json
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\bin\Debug\net6.0\PracticeForTest.runtimeconfig.json
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\bin\Debug\net6.0\PracticeForTest.dll
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\bin\Debug\net6.0\PracticeForTest.pdb
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\PracticeForTest.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\PracticeForTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\PracticeForTest.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\PracticeForTest.AssemblyInfo.cs
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\PracticeForTest.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\PracticeForTest.dll
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\refint\PracticeForTest.dll
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\PracticeForTest.pdb
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\PracticeForTest.genruntimeconfig.cache
+C:\Users\Owner\source\repos\PracticeForTest\PracticeForTest\obj\Debug\net6.0\ref\PracticeForTest.dll
